@@ -1,0 +1,15 @@
+C:\Users\пк\source\repos\MyOwnSberBank\MyOwnSberBank\bin\Debug\net7.0\MyOwnSberBank.exe
+C:\Users\пк\source\repos\MyOwnSberBank\MyOwnSberBank\bin\Debug\net7.0\MyOwnSberBank.deps.json
+C:\Users\пк\source\repos\MyOwnSberBank\MyOwnSberBank\bin\Debug\net7.0\MyOwnSberBank.runtimeconfig.json
+C:\Users\пк\source\repos\MyOwnSberBank\MyOwnSberBank\bin\Debug\net7.0\MyOwnSberBank.dll
+C:\Users\пк\source\repos\MyOwnSberBank\MyOwnSberBank\bin\Debug\net7.0\MyOwnSberBank.pdb
+C:\Users\пк\source\repos\MyOwnSberBank\MyOwnSberBank\obj\Debug\net7.0\MyOwnSberBank.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\MyOwnSberBank\MyOwnSberBank\obj\Debug\net7.0\MyOwnSberBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\source\repos\MyOwnSberBank\MyOwnSberBank\obj\Debug\net7.0\MyOwnSberBank.AssemblyInfoInputs.cache
+C:\Users\пк\source\repos\MyOwnSberBank\MyOwnSberBank\obj\Debug\net7.0\MyOwnSberBank.AssemblyInfo.cs
+C:\Users\пк\source\repos\MyOwnSberBank\MyOwnSberBank\obj\Debug\net7.0\MyOwnSberBank.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\MyOwnSberBank\MyOwnSberBank\obj\Debug\net7.0\MyOwnSberBank.dll
+C:\Users\пк\source\repos\MyOwnSberBank\MyOwnSberBank\obj\Debug\net7.0\refint\MyOwnSberBank.dll
+C:\Users\пк\source\repos\MyOwnSberBank\MyOwnSberBank\obj\Debug\net7.0\MyOwnSberBank.pdb
+C:\Users\пк\source\repos\MyOwnSberBank\MyOwnSberBank\obj\Debug\net7.0\MyOwnSberBank.genruntimeconfig.cache
+C:\Users\пк\source\repos\MyOwnSberBank\MyOwnSberBank\obj\Debug\net7.0\ref\MyOwnSberBank.dll
